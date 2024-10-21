@@ -1,9 +1,21 @@
 *{
-    background-color: rgb(43, 226, 186);
+    padding: 0;
+    margin: 0;
+}
+form{
+width: 60%;
+margin: auto;
+margin-top: 40%;
+padding: 50px 20px;
+text-align: center;
+border-radius: 20%;
+background: lightblue;
+}
+form>*{
+    margin-bottom: 20px;
 }
 
-
-
-*{
-    background-color: rgb(226, 43, 58);
+button{
+    padding: 5px;
+    border: none;    
 }
